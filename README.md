@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Joandri Alkahfi</h1>
 <h3 align="center">Crafting Ideas into Code • Fullstack Developer • Mobile App Builder</h3>
 
+![IconGithubGoyang](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNvMXppM2xhNGxmc2Jya2ltNnBhNXp5MDlscTgxcjR3cDdhN3c0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoandriAK&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
@@ -12,6 +14,8 @@
 - 📱 Passionate about building beautiful, functional Website & mobile apps  
 - 🎯 Currently learning deeper **backend optimization & secure API design**  
 - ☕ Always learning, always experimenting, always improving  
+
+![GifCodingan](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJhY2NicjB2amFhN2FydGV6NXB0ZWZzMTBhMXg4NHJ4YnhrdDNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
@@ -46,6 +50,8 @@
 ## 🌌 Featured Quote  
 > *“Build something today that your future self will thank you for.”*  
 
+![PingiunNgoding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5cno3Y2YwdHAxOXphamJ6bm52MDJnNG9xOTJueGFrMGM5ZXJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
+
 ---
 
 ## 📫 Let’s Connect
@@ -56,107 +62,3 @@
 
 ---
 
-# 🎮 Snake 
-
-Selamat datang di **Snake**!  
-Grid 3×3, ular tunggal (`S`) bergerak untuk mengambil apel (`A`).  
-Klik panah untuk menggerakkan ular. Jika ular mencapai apel, kamu menang — lalu bisa restart.
-
----
-
-**Kontrol:**  
-- Klik panah atas/bawah/kiri/kanan di bawah grid untuk berpindah.
-
----
-
-<!-- Anchors for each cell state (row 1..3, col 1..3) -->
-
-<a name="r1c1"></a>
-## State: (1,1)
-
-[↖ Back to start](#r2c2)  
-[↑](#r0c1)  [↓](#r2c1)  [←](#r1c0)  [→](#r1c2)
-
----
-
-<a name="r1c2"></a>
-## State: (1,2)
-
-[↖](#r1c1)  
-[↑](#r0c2)  [↓](#r2c2)  [←](#r1c1)  [→](#r1c3)
-
----
-
-<a name="r1c3"></a>
-## State: (1,3)
-
-[↖](#r1c2)  
-[↑](#r0c3)  [↓](#r2c3)  [←](#r1c2)  [→](#r1c4)
-
----
-
-<a name="r2c1"></a>
-## State: (2,1)
-
-[↖](#r1c1)  
-[↑](#r1c1)  [↓](#r3c1)  [←](#r2c0)  [→](#r2c2)
-
----
-
-<a name="r2c2"></a>
-## State: (2,2) — **Start**
-
-**Start position** — mainkan dari sini!
-
-[↑](#r1c2)  [↓](#r3c2)  [←](#r2c1)  [→](#r2c3)
-
----
-
-<a name="r2c3"></a>
-## State: (2,3)
-
-[↖](#r1c3)  
-[↑](#r1c3)  [↓](#r3c3)  [←](#r2c2)  [→](#r2c4)
-
----
-
-<a name="r3c1"></a>
-## State: (3,1)
-
-[↖](#r2c1)  
-[↑](#r2c1)  [↓](#r4c1)  [←](#r3c0)  [→](#r3c2)
-
----
-
-<a name="r3c2"></a>
-## State: (3,2)
-
-[↖](#r2c2)  
-[↑](#r2c2)  [↓](#r4c2)  [←](#r3c1)  [→](#r3c3)
-
----
-
-<a name="r3c3"></a>
-## State: (3,3)
-
-**No apple visible here — apple was at (1,1) / (2,1) depending on your path.**
-
-[↖](#r2c3)  
-[↑](#r2c3)  [↓](#r4c3)  [←](#r3c2)  [→](#r3c4)
-
----
-
-## 🎉 Winning states (snake reached apple)
-
-When you move the snake into the apple cell (e.g. move to the same coordinates as `A`), you'll see a win message. Example below:
-
-<a name="win"></a>
-## 🏆 You got the apple!
-
-
-**✅ Congrats — You win!**  
-[Play again (restart)](#r2c2)
-
----
-
-Have fun! 🐍  
