@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔧 Fullstack developer (React Native, Node.js, Laravel, Express, NeonDB)  
+- 🔧 Fullstack developer (React Native, Node.js, Laravel, Express)  
 - 📱 Passionate about building beautiful, functional Website & mobile apps  
 - 🎯 Currently learning deeper **backend optimization & secure API design**  
 - ☕ Always learning, always experimenting, always improving  
