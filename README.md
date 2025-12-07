@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Joandri Alkahfi</h1>
-<h3 align="center">Crafting Ideas into Code • Fullstack Developer • Mobile App Builder</h3>
+<h3 align="center">Crafting Ideas into Code • Learn Fullstack Developer • Mobile App Builder</h3>
 
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNvMXppM2xhNGxmc2Jya2ltNnBhNXp5MDlscTgxcjR3cDdhN3c0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
